@@ -1,2 +1,2 @@
 # CSS-Calculator
-This is a simple stylish Calculato.
+This is a simple stylish Calculato .
